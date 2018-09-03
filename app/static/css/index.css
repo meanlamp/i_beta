@@ -1,0 +1,49 @@
+body{
+    background-color: #3195AD;
+}
+
+
+.jumbotron p{
+   color: #F1FEFF;
+}
+
+.jumbotron h1 {
+    color: #F1FEFF;
+}
+.jumbotron  {
+    text-align: center;
+    background-color: #0B2A54;
+
+}
+
+
+button.btn.btn-default{
+    background-color: #6BF3FC;
+}
+
+#welcomeThumb{
+    text-align: center;
+}
+
+.thumbnail{
+
+    margin: 0px;
+    padding: 05px;
+}
+
+h1 {
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+body{
+    padding-top: 70px;
+}
+
+span{
+    align-self: center;
+    background-color: #0B2A54;
+    text-align: center;
+    color:white;
+}
